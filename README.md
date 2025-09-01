@@ -1,5 +1,5 @@
 # 💫 About Me:
-       I'm passionate Data analyst from India📍<br>. I'm currently looking for data analyst job<br>
+       I'm passionate Data Scientist and analyst from India📍<br>. I'm currently looking for data analyst job<br>
 
 
 ## 🌐 Socials:
